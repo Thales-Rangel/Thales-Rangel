@@ -57,13 +57,9 @@
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thales-rangel&show_icons=true&locale=en&layout=compact" alt="thales-rangel" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thales-rangel&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="thales-rangel" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thales-rangel&show_icons=true&locale=en" alt="thales-rangel" />
-</p>
-
-<p>
-  <img align="center" src ="https://github-readme-streak-stats.herokuapp.com/?user=thales-rangel&" alt="thales-rangel" />
-</p>
+<a href="https://github.com/powerandcontrol">
+    <img src="https://github-readme-stats.vercel.app/api?username=thales-rangel&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=chartreuse-dark" alt="Pe's GitHub streak"/>
+</a>
