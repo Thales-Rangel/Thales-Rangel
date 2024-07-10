@@ -60,6 +60,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thales-rangel&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="thales-rangel" />
 </p>
 
-<a href="https://github.com/powerandcontrol">
+<a href="https://github.com/thales-rangel">
     <img src="https://github-readme-stats.vercel.app/api?username=thales-rangel&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=chartreuse-dark" alt="Pe's GitHub streak"/>
 </a>
